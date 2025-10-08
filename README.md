@@ -15,7 +15,8 @@
 
 ## 🔍 Project Overview
 
-This project focuses on extracting and visualizing **stock price** and **revenue data** for two major companies, **Tesla** and **GameStop**. Using the `yfinance` Python library, historical stock data is retrieved programmatically. Additionally, revenue data is scraped from the web using `requests` and `BeautifulSoup`. Both datasets are cleaned and processed, then visualized with interactive Plotly graphs that show trends and historical data up to mid-2021.
+This project focuses on extracting and visualizing **stock price** and **revenue data** for two major companies, **Tesla** and **GameStop**. Using the `yfinance` Python library, historical stock data is retrieved programmatically. Additionally, revenue data is scraped from the web using `requests` and `BeautifulSoup`. We are analyzing Historical Stock/Revenue Data and Building a Dashboard.
+Both datasets are cleaned and processed, then visualized with interactive Plotly graphs that show trends and historical data up to mid-2021.
 
 ---
 
